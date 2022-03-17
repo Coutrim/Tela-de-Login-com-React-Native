@@ -6,5 +6,8 @@ Front-End
 Contem: Animações e navegação de 2 páginas diferentes.
 
 
-https://user-images.githubusercontent.com/93686690/158747059-f0999e8c-9298-45bf-bd62-97436bc7face.mp4
+
+
+
+https://user-images.githubusercontent.com/93686690/158747278-232bb7c1-1008-49c8-8ff3-22a554fd0547.mp4
 
